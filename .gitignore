@@ -1,0 +1,14 @@
+# Datos (pesados; se documenta cómo descargarlos)
+data/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+.ipynb_checkpoints/
+
+# Entorno y secretos
+.env
+
+# Power BI: archivos temporales
+*.pbix.bak
